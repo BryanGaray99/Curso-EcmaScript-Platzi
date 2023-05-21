@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Bryan Garay <bryangarayacademico@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
